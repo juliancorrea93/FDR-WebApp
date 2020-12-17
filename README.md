@@ -1,6 +1,6 @@
 # FDR-WebApp
 
-Authors: Gilber Greene and Julian Correa
+Authors: Gilbert Greene and Julian Correa
 
 Link to Gilbert Greene github page: https://github.com/ANat20
 
